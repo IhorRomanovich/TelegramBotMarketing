@@ -1,2 +1,3 @@
 # TelegramBotMarketing
-Just trying
+
+Bot creating for marketing auto-funnel.
